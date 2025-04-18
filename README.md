@@ -1,5 +1,8 @@
-# Spotify-Clone
-🎧 Spotify Clone
+# 🎧 Spotify Clone
+
+A visually appealing and functional clone of the Spotify interface.  
+🚀 **Live Preview:** [Click here to view the project](https://akhilsoni04.github.io/Spotify-Clone/).
+
 
 A sleek and responsive front-end clone of the **Spotify Web Player**, built using pure **HTML** and **CSS**. This project replicates the layout, design elements, and styling of Spotify's main interface and serves as a UI/UX practice project for front-end development.
 
